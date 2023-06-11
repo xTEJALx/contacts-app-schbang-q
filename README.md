@@ -1,6 +1,9 @@
 # contacts-app-schbang-q
 
 cd over to contacts-app-schbang-q
+<br>
 run commands:
->>npm i
->>npm run dev
+<br>
+npm i
+<br>
+npm run dev
